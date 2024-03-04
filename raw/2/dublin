@@ -1,0 +1,4562 @@
+[
+    {
+        "address": "Smithfield North",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 20,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 10,
+                "stands": 10
+            },
+            "capacity": 30
+        },
+        "name": "SMITHFIELD NORTH",
+        "number": 42,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.349562,
+            "longitude": -6.278198
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 20,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 10,
+                "stands": 10
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Parnell Square North",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:32Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "PARNELL SQUARE NORTH",
+        "number": 30,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.3537415547453,
+            "longitude": -6.26530144781526
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Clonmel Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 2,
+                "stands": 28
+            },
+            "capacity": 33
+        },
+        "name": "CLONMEL STREET",
+        "number": 54,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.336021,
+            "longitude": -6.26298
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 2,
+                "stands": 28
+            },
+            "capacity": 33
+        }
+    },
+    {
+        "address": "Avondale Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 21,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 18,
+                "stands": 14
+            },
+            "capacity": 35
+        },
+        "name": "AVONDALE ROAD",
+        "number": 108,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.359405,
+            "longitude": -6.276142
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 21,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 18,
+                "stands": 14
+            },
+            "capacity": 35
+        }
+    },
+    {
+        "address": "James Street East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:07Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 5,
+                "stands": 24
+            },
+            "capacity": 30
+        },
+        "name": "JAMES STREET EAST",
+        "number": 20,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.336597,
+            "longitude": -6.248109
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 5,
+                "stands": 24
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Mount Street Lower",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:06Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 0,
+                "stands": 38
+            },
+            "capacity": 40
+        },
+        "name": "MOUNT STREET LOWER",
+        "number": 56,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.33796,
+            "longitude": -6.24153
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 0,
+                "stands": 38
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Christchurch Place",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        },
+        "name": "CHRISTCHURCH PLACE",
+        "number": 6,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343368,
+            "longitude": -6.27012
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Grantham Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:19Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 4,
+                "stands": 22
+            },
+            "capacity": 30
+        },
+        "name": "GRANTHAM STREET",
+        "number": 18,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.334123,
+            "longitude": -6.265436
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 4,
+                "stands": 22
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Pearse Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:36Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 16,
+                "stands": 5
+            },
+            "capacity": 30
+        },
+        "name": "PEARSE STREET",
+        "number": 32,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.344304,
+            "longitude": -6.250427
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 16,
+                "stands": 5
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "York Street East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:46Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 2,
+                "stands": 29
+            },
+            "capacity": 32
+        },
+        "name": "YORK STREET EAST",
+        "number": 52,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.338755,
+            "longitude": -6.262003
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 2,
+                "stands": 29
+            },
+            "capacity": 32
+        }
+    },
+    {
+        "address": "Excise Walk",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:07Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 8,
+                "stands": 29
+            },
+            "capacity": 40
+        },
+        "name": "EXCISE WALK",
+        "number": 48,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347777,
+            "longitude": -6.244239
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 8,
+                "stands": 29
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Fitzwilliam Square West",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 0,
+                "stands": 25
+            },
+            "capacity": 30
+        },
+        "name": "FITZWILLIAM SQUARE WEST",
+        "number": 13,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.336074,
+            "longitude": -6.252825
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 0,
+                "stands": 25
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Portobello Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:19Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 8,
+                "stands": 20
+            },
+            "capacity": 30
+        },
+        "name": "PORTOBELLO ROAD",
+        "number": 43,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.330091,
+            "longitude": -6.268044
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 8,
+                "stands": 20
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Parnell Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:09Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 13
+            },
+            "capacity": 20
+        },
+        "name": "PARNELL STREET",
+        "number": 31,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.350929,
+            "longitude": -6.265125
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 13
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Frederick Street South",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:26Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        },
+        "name": "FREDERICK STREET SOUTH",
+        "number": 98,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341515,
+            "longitude": -6.256853
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Fownes Street Upper",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:23Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 21,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 16,
+                "stands": 9
+            },
+            "capacity": 30
+        },
+        "name": "FOWNES STREET UPPER",
+        "number": 14,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.344603,
+            "longitude": -6.263371
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 21,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 16,
+                "stands": 9
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Clarendon Row",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:46Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 2,
+                "stands": 25
+            },
+            "capacity": 31
+        },
+        "name": "CLARENDON ROW",
+        "number": 1,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.340927,
+            "longitude": -6.262501
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 2,
+                "stands": 25
+            },
+            "capacity": 31
+        }
+    },
+    {
+        "address": "Custom House",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 27,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 18,
+                "stands": 2
+            },
+            "capacity": 30
+        },
+        "name": "CUSTOM HOUSE",
+        "number": 23,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.348279,
+            "longitude": -6.254662
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 27,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 18,
+                "stands": 2
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Rathdown Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 9,
+                "stands": 23
+            },
+            "capacity": 40
+        },
+        "name": "RATHDOWN ROAD",
+        "number": 106,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.35893,
+            "longitude": -6.280337
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 9,
+                "stands": 23
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "North Circular Road (O'Connell's)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:17Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 4,
+                "stands": 18
+            },
+            "capacity": 30
+        },
+        "name": "NORTH CIRCULAR ROAD (O'CONNELL'S)",
+        "number": 112,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.357841,
+            "longitude": -6.251557
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 4,
+                "stands": 18
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Hanover Quay",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:16Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 6,
+                "stands": 31
+            },
+            "capacity": 40
+        },
+        "name": "HANOVER QUAY",
+        "number": 68,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.344115,
+            "longitude": -6.237153
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 6,
+                "stands": 31
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Oliver Bond Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:08Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 8,
+                "stands": 22
+            },
+            "capacity": 30
+        },
+        "name": "OLIVER BOND STREET",
+        "number": 74,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343893,
+            "longitude": -6.280531
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 8,
+                "stands": 22
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Collins Barracks Museum",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:52Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 6,
+                "stands": 22
+            },
+            "capacity": 38
+        },
+        "name": "COLLINS BARRACKS MUSEUM",
+        "number": 87,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347477,
+            "longitude": -6.28525
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 6,
+                "stands": 22
+            },
+            "capacity": 38
+        }
+    },
+    {
+        "address": "Brookfield Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 11,
+                "stands": 11
+            },
+            "capacity": 30
+        },
+        "name": "BROOKFIELD ROAD",
+        "number": 84,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339005,
+            "longitude": -6.300217
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 11,
+                "stands": 11
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Benson Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:53Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        },
+        "name": "BENSON STREET",
+        "number": 90,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.344153,
+            "longitude": -6.233451
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Earlsfort Terrace",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 30
+            },
+            "capacity": 30
+        },
+        "name": "EARLSFORT TERRACE",
+        "number": 11,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.334295,
+            "longitude": -6.258503
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 30
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Golden Lane",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "GOLDEN LANE",
+        "number": 17,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.340803,
+            "longitude": -6.267732
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Deverell Place",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:52Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 7,
+                "stands": 20
+            },
+            "capacity": 30
+        },
+        "name": "DEVERELL PLACE",
+        "number": 45,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.351464,
+            "longitude": -6.255265
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 7,
+                "stands": 20
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Wilton Terrace (Park)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:46Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        },
+        "name": "WILTON TERRACE (PARK)",
+        "number": 114,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.333653,
+            "longitude": -6.248345
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "John Street West",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 26
+            },
+            "capacity": 31
+        },
+        "name": "JOHN STREET WEST",
+        "number": 72,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343105,
+            "longitude": -6.277167
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 26
+            },
+            "capacity": 31
+        }
+    },
+    {
+        "address": "Fenian Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:22Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 11,
+                "stands": 23
+            },
+            "capacity": 35
+        },
+        "name": "FENIAN STREET",
+        "number": 63,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341428,
+            "longitude": -6.24672
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 11,
+                "stands": 23
+            },
+            "capacity": 35
+        }
+    },
+    {
+        "address": "Merrion Square South",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:41Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 31
+            },
+            "capacity": 40
+        },
+        "name": "MERRION SQUARE SOUTH",
+        "number": 113,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.338614,
+            "longitude": -6.248606
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 31
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "South Dock Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 30,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 17,
+                "stands": 0
+            },
+            "capacity": 30
+        },
+        "name": "SOUTH DOCK ROAD",
+        "number": 91,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341833,
+            "longitude": -6.231291
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 30,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 17,
+                "stands": 0
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "City Quay",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:05Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 2,
+                "stands": 24
+            },
+            "capacity": 30
+        },
+        "name": "CITY QUAY",
+        "number": 99,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346637,
+            "longitude": -6.246154
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 2,
+                "stands": 24
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Exchequer Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:18Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 24
+        },
+        "name": "EXCHEQUER STREET",
+        "number": 9,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343034,
+            "longitude": -6.263578
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 24
+        }
+    },
+    {
+        "address": "The Point",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:24Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 3,
+                "stands": 36
+            },
+            "capacity": 40
+        },
+        "name": "THE POINT",
+        "number": 67,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346867,
+            "longitude": -6.230852
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 3,
+                "stands": 36
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Broadstone",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 29
+            },
+            "capacity": 30
+        },
+        "name": "BROADSTONE",
+        "number": 116,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.3547,
+            "longitude": -6.272314
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 29
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Hatch Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 35
+            },
+            "capacity": 36
+        },
+        "name": "HATCH STREET",
+        "number": 55,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.33403,
+            "longitude": -6.260714
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 35
+            },
+            "capacity": 36
+        }
+    },
+    {
+        "address": "Lime Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        },
+        "name": "LIME STREET",
+        "number": 62,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346026,
+            "longitude": -6.243576
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Charlemont Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:39Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 38,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 19,
+                "mechanicalBikes": 19,
+                "stands": 2
+            },
+            "capacity": 40
+        },
+        "name": "CHARLEMONT PLACE",
+        "number": 5,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.330662,
+            "longitude": -6.260177
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 38,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 19,
+                "mechanicalBikes": 19,
+                "stands": 2
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Kilmainham Gaol",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:14:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 9,
+                "stands": 21
+            },
+            "capacity": 40
+        },
+        "name": "KILMAINHAM GAOL",
+        "number": 97,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.342113,
+            "longitude": -6.310015
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 10,
+                "mechanicalBikes": 9,
+                "stands": 21
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Hardwicke Place",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:17Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 2,
+                "stands": 21
+            },
+            "capacity": 25
+        },
+        "name": "HARDWICKE PLACE",
+        "number": 61,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.357043,
+            "longitude": -6.263232
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 2,
+                "stands": 21
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "Wolfe Tone Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 6,
+                "stands": 23
+            },
+            "capacity": 29
+        },
+        "name": "WOLFE TONE STREET",
+        "number": 77,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.348875,
+            "longitude": -6.267459
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 6,
+                "stands": 23
+            },
+            "capacity": 29
+        }
+    },
+    {
+        "address": "Francis Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 2,
+                "stands": 23
+            },
+            "capacity": 30
+        },
+        "name": "FRANCIS STREET",
+        "number": 73,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.342081,
+            "longitude": -6.275233
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 2,
+                "stands": 23
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Greek Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:55Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "GREEK STREET",
+        "number": 4,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346874,
+            "longitude": -6.272976
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Guild Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:17Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 12,
+                "stands": 27
+            },
+            "capacity": 40
+        },
+        "name": "GUILD STREET",
+        "number": 49,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347932,
+            "longitude": -6.240928
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 12,
+                "stands": 27
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Herbert Place",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 11,
+                "stands": 12
+            },
+            "capacity": 30
+        },
+        "name": "HERBERT PLACE",
+        "number": 19,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.334432,
+            "longitude": -6.245575
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 11,
+                "stands": 12
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "High Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:39Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 10,
+                "stands": 11
+            },
+            "capacity": 29
+        },
+        "name": "HIGH STREET",
+        "number": 7,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343565,
+            "longitude": -6.275071
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 10,
+                "stands": 11
+            },
+            "capacity": 29
+        }
+    },
+    {
+        "address": "North Circular Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 12,
+                "mechanicalBikes": 6,
+                "stands": 12
+            },
+            "capacity": 30
+        },
+        "name": "NORTH CIRCULAR ROAD",
+        "number": 60,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.359624,
+            "longitude": -6.260348
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 12,
+                "mechanicalBikes": 6,
+                "stands": 12
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Western Way",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 5,
+                "stands": 35
+            },
+            "capacity": 40
+        },
+        "name": "WESTERN WAY",
+        "number": 102,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.354929,
+            "longitude": -6.269425
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 5,
+                "stands": 35
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Talbot Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 14,
+                "stands": 23
+            },
+            "capacity": 40
+        },
+        "name": "TALBOT STREET",
+        "number": 38,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.350974,
+            "longitude": -6.25294
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 14,
+                "stands": 23
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Newman House",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 1,
+                "stands": 38
+            },
+            "capacity": 40
+        },
+        "name": "NEWMAN HOUSE",
+        "number": 53,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.337132,
+            "longitude": -6.26059
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 1,
+                "stands": 38
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Sir Patrick's Dun",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 9,
+                "stands": 25
+            },
+            "capacity": 40
+        },
+        "name": "SIR PATRICK DUN'S",
+        "number": 58,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339218,
+            "longitude": -6.240642
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 9,
+                "stands": 25
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "New Central Bank",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:14:04Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        },
+        "name": "NEW CENTRAL BANK",
+        "number": 66,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347122,
+            "longitude": -6.234749
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Grangegorman Lower (Central)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        },
+        "name": "GRANGEGORMAN LOWER (CENTRAL)",
+        "number": 104,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.355173,
+            "longitude": -6.278424
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 34
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "King Street North",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:19Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 25
+            },
+            "capacity": 30
+        },
+        "name": "KING STREET NORTH",
+        "number": 101,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.350291,
+            "longitude": -6.273507
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 25
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Killarney Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 3,
+                "stands": 27
+            },
+            "capacity": 30
+        },
+        "name": "KILLARNEY STREET",
+        "number": 115,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.354845,
+            "longitude": -6.247579
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 3,
+                "stands": 27
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Herbert Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:26Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 2,
+                "stands": 30
+            },
+            "capacity": 40
+        },
+        "name": "HERBERT STREET",
+        "number": 47,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.335742,
+            "longitude": -6.24551
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 2,
+                "stands": 30
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Hanover Quay East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:58Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 10,
+                "stands": 29
+            },
+            "capacity": 40
+        },
+        "name": "HANOVER QUAY EAST",
+        "number": 117,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343653,
+            "longitude": -6.231755
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 10,
+                "stands": 29
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Custom House Quay",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 22,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 14,
+                "stands": 8
+            },
+            "capacity": 30
+        },
+        "name": "CUSTOM HOUSE QUAY",
+        "number": 8,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347884,
+            "longitude": -6.248048
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 22,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 14,
+                "stands": 8
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Molesworth Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:37Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 5,
+                "stands": 14
+            },
+            "capacity": 20
+        },
+        "name": "MOLESWORTH STREET",
+        "number": 27,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341288,
+            "longitude": -6.258117
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 5,
+                "stands": 14
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Georges Quay",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:53Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 9,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "GEORGES QUAY",
+        "number": 16,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347508,
+            "longitude": -6.252192
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 9,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Kilmainham Lane",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 6,
+                "stands": 22
+            },
+            "capacity": 30
+        },
+        "name": "KILMAINHAM LANE",
+        "number": 96,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341805,
+            "longitude": -6.305085
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 6,
+                "stands": 22
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Mount Brown",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 12,
+                "stands": 8
+            },
+            "capacity": 22
+        },
+        "name": "MOUNT BROWN",
+        "number": 82,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341645,
+            "longitude": -6.29719
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 12,
+                "stands": 8
+            },
+            "capacity": 22
+        }
+    },
+    {
+        "address": "Market Street South",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:24Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 12,
+                "stands": 25
+            },
+            "capacity": 38
+        },
+        "name": "MARKET STREET SOUTH",
+        "number": 76,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.342296,
+            "longitude": -6.287661
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 12,
+                "stands": 25
+            },
+            "capacity": 38
+        }
+    },
+    {
+        "address": "Kevin Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:43Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        },
+        "name": "KEVIN STREET",
+        "number": 71,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.337757,
+            "longitude": -6.267699
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Eccles Street East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 2,
+                "stands": 23
+            },
+            "capacity": 27
+        },
+        "name": "ECCLES STREET EAST",
+        "number": 79,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.358115,
+            "longitude": -6.265601
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 2,
+                "stands": 23
+            },
+            "capacity": 27
+        }
+    },
+    {
+        "address": "Grand Canal Dock",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 14,
+                "stands": 26
+            },
+            "capacity": 40
+        },
+        "name": "GRAND CANAL DOCK",
+        "number": 69,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.342638,
+            "longitude": -6.238695
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 14,
+                "stands": 26
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Merrion Square East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:38Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 28
+            },
+            "capacity": 30
+        },
+        "name": "MERRION SQUARE EAST",
+        "number": 25,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339434,
+            "longitude": -6.246548
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 28
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "York Street West",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 5,
+                "stands": 35
+            },
+            "capacity": 40
+        },
+        "name": "YORK STREET WEST",
+        "number": 51,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339334,
+            "longitude": -6.264699
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 5,
+                "stands": 35
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "St. Stephen's Green South",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:04:17Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 4,
+                "stands": 22
+            },
+            "capacity": 30
+        },
+        "name": "ST. STEPHEN'S GREEN SOUTH",
+        "number": 37,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.337494,
+            "longitude": -6.26199
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 4,
+                "stands": 22
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Denmark Street Great",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:26Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "DENMARK STREET GREAT",
+        "number": 59,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.35561,
+            "longitude": -6.261397
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Royal Hospital",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 6,
+                "stands": 28
+            },
+            "capacity": 40
+        },
+        "name": "ROYAL HOSPITAL",
+        "number": 95,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343897,
+            "longitude": -6.29706
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 6,
+                "stands": 28
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Heuston Station (Car Park)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:43Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 12,
+                "stands": 22
+            },
+            "capacity": 40
+        },
+        "name": "HEUSTON STATION (CAR PARK)",
+        "number": 94,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346985,
+            "longitude": -6.297804
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 6,
+                "mechanicalBikes": 12,
+                "stands": 22
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Grangegorman Lower (North)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 8,
+                "stands": 17
+            },
+            "capacity": 36
+        },
+        "name": "GRANGEGORMAN LOWER (NORTH)",
+        "number": 105,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.355954,
+            "longitude": -6.278378
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 8,
+                "stands": 17
+            },
+            "capacity": 36
+        }
+    },
+    {
+        "address": "St. Stephen's Green East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:32Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 3,
+                "stands": 37
+            },
+            "capacity": 40
+        },
+        "name": "ST. STEPHEN'S GREEN EAST",
+        "number": 36,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.337824,
+            "longitude": -6.256035
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 3,
+                "stands": 37
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Heuston Station (Central)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:05:32Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 40,
+                "electricalBikes": 22,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 22,
+                "mechanicalBikes": 18,
+                "stands": 0
+            },
+            "capacity": 40
+        },
+        "name": "HEUSTON STATION (CENTRAL)",
+        "number": 93,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346603,
+            "longitude": -6.296924
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 40,
+                "electricalBikes": 22,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 22,
+                "mechanicalBikes": 18,
+                "stands": 0
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Townsend Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:07Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 10,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "TOWNSEND STREET",
+        "number": 22,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.345922,
+            "longitude": -6.254614
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 10,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "George's Lane",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 24,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 16,
+                "stands": 16
+            },
+            "capacity": 40
+        },
+        "name": "GEORGES LANE",
+        "number": 50,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.35023,
+            "longitude": -6.279696
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 24,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 8,
+                "mechanicalBikes": 16,
+                "stands": 16
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Phibsborough Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:08:05Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 24,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 12,
+                "mechanicalBikes": 12,
+                "stands": 16
+            },
+            "capacity": 40
+        },
+        "name": "PHIBSBOROUGH ROAD",
+        "number": 110,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.356307,
+            "longitude": -6.273717
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 24,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 12,
+                "mechanicalBikes": 12,
+                "stands": 16
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Eccles Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:14:04Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 1,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "ECCLES STREET",
+        "number": 12,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.359246,
+            "longitude": -6.269779
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 1,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Portobello Harbour",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:52Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 30,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 25,
+                "stands": 0
+            },
+            "capacity": 30
+        },
+        "name": "PORTOBELLO HARBOUR",
+        "number": 34,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.330362,
+            "longitude": -6.265163
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 30,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 25,
+                "stands": 0
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Mater Hospital",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:15Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 33
+            },
+            "capacity": 40
+        },
+        "name": "MATER HOSPITAL",
+        "number": 78,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.359967,
+            "longitude": -6.264828
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 5,
+                "stands": 33
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Blessington Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        },
+        "name": "BLESSINGTON STREET",
+        "number": 2,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.356769,
+            "longitude": -6.26814
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "James Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 8,
+                "stands": 25
+            },
+            "capacity": 40
+        },
+        "name": "JAMES STREET",
+        "number": 75,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.343456,
+            "longitude": -6.287409
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 8,
+                "stands": 25
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Mountjoy Square East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:53Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 39
+            },
+            "capacity": 40
+        },
+        "name": "MOUNTJOY SQUARE EAST",
+        "number": 111,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.356717,
+            "longitude": -6.256359
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 0,
+                "stands": 39
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Merrion Square West",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:31Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 11,
+                "stands": 6
+            },
+            "capacity": 20
+        },
+        "name": "MERRION SQUARE WEST",
+        "number": 26,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339764,
+            "longitude": -6.251988
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 11,
+                "stands": 6
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Convention Centre",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:40Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        },
+        "name": "CONVENTION CENTRE",
+        "number": 65,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.34744,
+            "longitude": -6.238523
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 39
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Hardwicke Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:41Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 14
+            },
+            "capacity": 16
+        },
+        "name": "HARDWICKE STREET",
+        "number": 15,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.355473,
+            "longitude": -6.264423
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 14
+            },
+            "capacity": 16
+        }
+    },
+    {
+        "address": "Parkgate Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 34,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 21,
+                "stands": 4
+            },
+            "capacity": 38
+        },
+        "name": "PARKGATE STREET",
+        "number": 86,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347972,
+            "longitude": -6.291804
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 34,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 21,
+                "stands": 4
+            },
+            "capacity": 38
+        }
+    },
+    {
+        "address": "Smithfield",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 11,
+                "stands": 12
+            },
+            "capacity": 30
+        },
+        "name": "SMITHFIELD",
+        "number": 35,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347692,
+            "longitude": -6.278214
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 11,
+                "stands": 12
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Dame Street",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:36Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 10,
+                "stands": 1
+            },
+            "capacity": 16
+        },
+        "name": "DAME STREET",
+        "number": 10,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.344007,
+            "longitude": -6.266802
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 10,
+                "stands": 1
+            },
+            "capacity": 16
+        }
+    },
+    {
+        "address": "Heuston Bridge (South)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:14Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 14,
+                "stands": 0
+            },
+            "capacity": 25
+        },
+        "name": "HEUSTON BRIDGE (SOUTH)",
+        "number": 100,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347106,
+            "longitude": -6.292041
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 14,
+                "stands": 0
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "Cathal Brugha Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:15Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "CATHAL BRUGHA STREET",
+        "number": 24,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.352149,
+            "longitude": -6.260533
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Sandwith Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:34Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 14,
+                "stands": 24
+            },
+            "capacity": 40
+        },
+        "name": "SANDWITH STREET",
+        "number": 64,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.345203,
+            "longitude": -6.247163
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 14,
+                "stands": 24
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Buckingham Street Lower",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 13,
+                "stands": 16
+            },
+            "capacity": 29
+        },
+        "name": "BUCKINGHAM STREET LOWER",
+        "number": 109,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.353331,
+            "longitude": -6.249319
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 13,
+                "stands": 16
+            },
+            "capacity": 29
+        }
+    },
+    {
+        "address": "Rothe Abbey",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:10:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 3,
+                "stands": 25
+            },
+            "capacity": 35
+        },
+        "name": "ROTHE ABBEY",
+        "number": 85,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.338776,
+            "longitude": -6.30395
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 7,
+                "mechanicalBikes": 3,
+                "stands": 25
+            },
+            "capacity": 35
+        }
+    },
+    {
+        "address": "Charleville Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:13Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 14,
+                "stands": 23
+            },
+            "capacity": 40
+        },
+        "name": "CHARLEVILLE ROAD",
+        "number": 107,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.359157,
+            "longitude": -6.281866
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 14,
+                "stands": 23
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Princes Street / O'Connell Street",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 5,
+                "stands": 6
+            },
+            "capacity": 23
+        },
+        "name": "PRINCES STREET / O'CONNELL STREET",
+        "number": 33,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.349013,
+            "longitude": -6.260311
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 11,
+                "mechanicalBikes": 5,
+                "stands": 6
+            },
+            "capacity": 23
+        }
+    },
+    {
+        "address": "Upper Sherrard Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:36Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 25
+            },
+            "capacity": 30
+        },
+        "name": "UPPER SHERRARD STREET",
+        "number": 44,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.358437,
+            "longitude": -6.260641
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 3,
+                "stands": 25
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Fitzwilliam Square East",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:24Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        },
+        "name": "FITZWILLIAM SQUARE EAST",
+        "number": 89,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.335211,
+            "longitude": -6.2509
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 40
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Grattan Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:37Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 10,
+                "stands": 8
+            },
+            "capacity": 23
+        },
+        "name": "GRATTAN STREET",
+        "number": 57,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.339629,
+            "longitude": -6.243778
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 10,
+                "stands": 8
+            },
+            "capacity": 23
+        }
+    },
+    {
+        "address": "St James Hospital (Luas)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:11:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 4,
+                "stands": 23
+            },
+            "capacity": 40
+        },
+        "name": "ST JAMES HOSPITAL (LUAS)",
+        "number": 80,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.341359,
+            "longitude": -6.292951
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 13,
+                "mechanicalBikes": 4,
+                "stands": 23
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Harcourt Terrace",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "HARCOURT TERRACE",
+        "number": 41,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.332763,
+            "longitude": -6.257942
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Bolton Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:10Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "BOLTON STREET",
+        "number": 3,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.351182,
+            "longitude": -6.269859
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 2,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Jervis Street",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:07:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 3,
+                "stands": 14
+            },
+            "capacity": 21
+        },
+        "name": "JERVIS STREET",
+        "number": 40,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.3483,
+            "longitude": -6.266651
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 4,
+                "mechanicalBikes": 3,
+                "stands": 14
+            },
+            "capacity": 21
+        }
+    },
+    {
+        "address": "Ormond Quay Upper",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 23
+            },
+            "capacity": 29
+        },
+        "name": "ORMOND QUAY UPPER",
+        "number": 29,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.346057,
+            "longitude": -6.268001
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 4,
+                "stands": 23
+            },
+            "capacity": 29
+        }
+    },
+    {
+        "address": "Grangegorman Lower (South)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:09:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 1,
+                "stands": 36
+            },
+            "capacity": 40
+        },
+        "name": "GRANGEGORMAN LOWER (SOUTH)",
+        "number": 103,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.354663,
+            "longitude": -6.278681
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 1,
+                "stands": 36
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Mountjoy Square West",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:37Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 25
+            },
+            "capacity": 30
+        },
+        "name": "MOUNTJOY SQUARE WEST",
+        "number": 28,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.356299,
+            "longitude": -6.258586
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 4,
+                "stands": 25
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Wilton Terrace",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 3,
+                "stands": 16
+            },
+            "capacity": 20
+        },
+        "name": "WILTON TERRACE",
+        "number": 39,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.332383,
+            "longitude": -6.252717
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 1,
+                "mechanicalBikes": 3,
+                "stands": 16
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Emmet Road",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:06:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 16,
+                "stands": 5
+            },
+            "capacity": 40
+        },
+        "name": "EMMET ROAD",
+        "number": 83,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.340714,
+            "longitude": -6.308191
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 25,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 9,
+                "mechanicalBikes": 16,
+                "stands": 5
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Heuston Bridge (North)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:52Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 40,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 38,
+                "stands": 0
+            },
+            "capacity": 40
+        },
+        "name": "HEUSTON BRIDGE (NORTH)",
+        "number": 92,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.347802,
+            "longitude": -6.292432
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 40,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 2,
+                "mechanicalBikes": 38,
+                "stands": 0
+            },
+            "capacity": 40
+        }
+    },
+    {
+        "address": "Leinster Street South",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:12:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 11,
+                "stands": 14
+            },
+            "capacity": 30
+        },
+        "name": "LEINSTER STREET SOUTH",
+        "number": 21,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.34218,
+            "longitude": -6.254485
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 5,
+                "mechanicalBikes": 11,
+                "stands": 14
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "Blackhall Place",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "dublin",
+        "lastUpdate": "2023-11-04T18:13:43Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 8,
+                "stands": 19
+            },
+            "capacity": 30
+        },
+        "name": "BLACKHALL PLACE",
+        "number": 88,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 53.3488,
+            "longitude": -6.281637
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 3,
+                "mechanicalBikes": 8,
+                "stands": 19
+            },
+            "capacity": 30
+        }
+    }
+]

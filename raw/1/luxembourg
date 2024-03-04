@@ -1,0 +1,5002 @@
+[
+    {
+        "address": "- LUDWIG VAN BEETHOVEN - RUE LUDWIG VAN BEETHOVEN ( DEVANT N\u00b0 45 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        },
+        "name": "#00053-LUDWIG VAN BEETHOVEN",
+        "number": 53,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.59,
+            "longitude": 6.1172
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 20
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "WEICKER - AVENUE JF KENNEDY / RUE ALPHONSE WEICKER",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "#00024-WEICKER",
+        "number": 24,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.631952,
+            "longitude": 6.17048
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "FENTANGE \"Hiehl\" - RUE DE BETTEMBOURG DEVANT N\u00b075",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:49Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 1
+            },
+            "capacity": 14
+        },
+        "name": "#00102-FENTANGE HIEHL",
+        "number": 102,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.567771,
+            "longitude": 6.152463
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 1
+            },
+            "capacity": 14
+        }
+    },
+    {
+        "address": "SERRA - AVENUE J.F. KENNEDY / CIRCUIT DE LA FOIRE (Arr\u00eat Luxexpo)",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:12Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 19,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 30
+        },
+        "name": "#00088-SERRA",
+        "number": 88,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.635423,
+            "longitude": 6.176061
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 19,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 19,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 30
+        }
+    },
+    {
+        "address": "AL BR\u00c9CK - VIADUC / BOULEVARD DE LA PETRUSSE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        },
+        "name": "#00006-AL BR\u00c9CK",
+        "number": 6,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60481,
+            "longitude": 6.133404
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "Rue de Luxembourg/Route de Longwy",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:19Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 15
+        },
+        "name": "#00097-HELFENT (PARKING)",
+        "number": 97,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.603644,
+            "longitude": 6.077783
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "LEOPOLD GOEBEL - ALLEE LEOPOLD GOEBEL ( DEVANT N\u00b0 109 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:05Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00047-LEOPOLD GOEBEL",
+        "number": 47,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6122,
+            "longitude": 6.1072
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Place Thorn/Bd Marcel Cahen ,50m avant rue B\u00e9atrix",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:50Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        },
+        "name": "#00089-PLACE THORN",
+        "number": 89,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60361,
+            "longitude": 6.10278
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "K. ADENAUER - BOULEVARD KONRAD ADENAUER ( DEVANT BEI )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:37Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 15
+        },
+        "name": "#00033-K. ADENAUER",
+        "number": 33,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.620586,
+            "longitude": 6.138998
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "Rue Albert Einstein/Bd de Kockelscheuer",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:03Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 18
+        },
+        "name": "#00085-EINSTEIN",
+        "number": 85,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.5842,
+            "longitude": 6.1249
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 18
+        }
+    },
+    {
+        "address": "ROBERT SCHUMAN - SQUARE SCHUMAN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 25
+        },
+        "name": "#00017-ROBERT SCHUMAN",
+        "number": 17,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.616669,
+            "longitude": 6.126069
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "Rue de Hamm/Rue des pruniers",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:14Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00094-HAMM-COLONIE",
+        "number": 94,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.606983,
+            "longitude": 6.154863
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "WINSTON CHURCHILL - PLACE CHURCHILL",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:46Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00011-WINSTON CHURCHILL",
+        "number": 11,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.611317,
+            "longitude": 6.120003
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "REIMERWEE - BOULEVARD K ADENAUER / RUE K KALERGI",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:38Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 18
+        },
+        "name": "#00023-REIMERWEE",
+        "number": 23,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.629448,
+            "longitude": 6.157348
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 18
+        }
+    },
+    {
+        "address": "EDELECK - RUE DE LUXEMBOURG / EDELECK",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:05Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00108-EDELECK",
+        "number": 108,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.565477,
+            "longitude": 6.079436
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "PARC DE GASPERICH-RUE CHARLES DARWIN x RUE FRANCOIS HOGENBERG",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00137-PARC DE GASPERICH",
+        "number": 137,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.586766,
+            "longitude": 6.122404
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "RUE KIEM/RUE DE MAMER",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:07Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 15
+        },
+        "name": "#00121-BARTRENG - RUE KIEM",
+        "number": 121,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.617394,
+            "longitude": 6.047817
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "BEINCHEN - RUE DU PONT",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:28Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00075-BEINCHEN",
+        "number": 75,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61561,
+            "longitude": 6.13097
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "AUBEPINES - VAL SAINTE CROIX / RUE DES AUBEPINES",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        },
+        "name": "#00045-AUBEPINES",
+        "number": 45,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61212,
+            "longitude": 6.09749
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "UM SCHLASS - CEINTURE UM SCHLASS",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:22Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 15
+        },
+        "name": "#00068-UM SCHLASS",
+        "number": 68,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.57337,
+            "longitude": 6.14397
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "MERCIER - PLACE DE LA GARE / RUE DU COMMERCE / PARKING",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        },
+        "name": "#00027-MERCIER",
+        "number": 27,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.5986,
+            "longitude": 6.132119
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "LEYDENBACH - RUE LEYDENBACH / RUE DES LABOURS",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:27Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "#00062-LEYDENBACH",
+        "number": 62,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62915,
+            "longitude": 6.173101
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CENTRE CULTUREL CAP - ROUTE D'ARLON N\u00b049 / PLACE DE L'EGLISE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 15
+        },
+        "name": "#00115-CENTRE CULTUREL CAP",
+        "number": 115,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.645239,
+            "longitude": 5.987938
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "GARE CENTS-HAMM - RUE DES ALOUETTES / GARE DE CENTS-HAMM",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:22Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        },
+        "name": "#00082-GARE CENTS-HAMM",
+        "number": 82,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.614749,
+            "longitude": 6.164772
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "RUE HENRI DUNANT \u00e0 cot\u00e9 du n\u00b045 \u00e0 8024 STRASSEN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:38Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 15
+        },
+        "name": "#00119-RIEDGEN",
+        "number": 119,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.619953,
+            "longitude": 6.063326
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "LEON XIII-RUE DE BONNEVOIE ( DEVANT N\u00b0 103 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        },
+        "name": "#00001-LEON XIII",
+        "number": 1,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.598211,
+            "longitude": 6.137526
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "KNUEDLER - PLACE GUILLAUME",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:43Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 25
+        },
+        "name": "#00014-KNUEDLER",
+        "number": 14,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.610126,
+            "longitude": 6.132084
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "Route d'Arlon/Shopping Belle Etoile",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:53Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00123-BELLE ETOILE",
+        "number": 123,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62187,
+            "longitude": 6.051072
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "METZER PLAZ - PLACE DE METZ",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:22Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00008-METZER PLAZ",
+        "number": 8,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.607346,
+            "longitude": 6.12762
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue des Lavandes \u00e0 cot\u00e9 du n\u00b039B \u00e0 8022 STRASSEN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:14Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00118-PESCHER 4",
+        "number": 118,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.622956,
+            "longitude": 6.074244
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "HELLEG GEESCHT - PLATEAU SAINT ESPRIT",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:06Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        },
+        "name": "#00038-HELLEG GEESCHT",
+        "number": 38,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60771,
+            "longitude": 6.13456
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "PHILHARMONIE - AVENUE JF KENNEDY / PLACE DE L'EUROPE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:04Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 23
+            },
+            "capacity": 25
+        },
+        "name": "#00019-PHILHARMONIE",
+        "number": 19,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.619345,
+            "longitude": 6.143907
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 23
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "EUROPAPARLAMENT - Rue L\u00e9on Hammes, pr\u00e9s de l'arr\u00eat Europaparlament",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "#00050-EUROPAPARLAMENT",
+        "number": 50,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.620607,
+            "longitude": 6.147885
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue St.Mathieu/ pr\u00e9s de l'arr\u00eat Pafendall",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:11Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 18
+        },
+        "name": "#00078-ST MATHIEU",
+        "number": 78,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.619061,
+            "longitude": 6.1323
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 18
+        }
+    },
+    {
+        "address": "- MERKELS PLAZ - RUE JEAN BAPTISTE MERKELS / Bd CHARLES MARX",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        },
+        "name": "#00030-MERKELS PLAZ",
+        "number": 30,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.599846,
+            "longitude": 6.122565
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "EDEMER - QUARTIER EDEMER / RUE D'ATH\u00c8NES / RUE DE PARIS",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:26Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00113-EDEMER",
+        "number": 113,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.629363,
+            "longitude": 6.017927
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Avenue J.F.Kennedy/Parvis au Plateau KB pr\u00e9s de l'arr\u00eat Pafendall",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00077-FUNICULAIRE",
+        "number": 77,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.618823,
+            "longitude": 6.136324
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "- AN DER BOURMICHT - ZONE INDUSTRIELLE BOURMICHT / RES DES MEROVINGIENS",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:32Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00072-AN DER BOURMICHT",
+        "number": 72,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61086,
+            "longitude": 6.08097
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "- AMELIE - BOULEVARD ROYAL / AVENUE AMELIE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:28Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "#00016-AMELIE",
+        "number": 16,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.613339,
+            "longitude": 6.125794
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CAMPUS KIRCHBIERG - BOULEVARD JF KENNEDY / RUE K KALERGI",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "#00022-CAMPUS KIRCHBIERG",
+        "number": 22,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6264,
+            "longitude": 6.1613
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CENTRE - RUE DU LAVOIR",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00106-LEUDELANGE CENTRE",
+        "number": 106,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.567305,
+            "longitude": 6.064291
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "- JEANNE D'ARC - PLACE JEANNE D'ARC",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        },
+        "name": "#00073-JEANNE D'ARC",
+        "number": 73,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.59691,
+            "longitude": 6.147957
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 25
+        },
+        "name": "#00013-GELLE FRA",
+        "number": 13,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60951,
+            "longitude": 6.128503
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "FISCHERHAFF- RUE DE CESSANGE 177",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:13Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 25
+        },
+        "name": "#00056-FISCHERHAFF",
+        "number": 56,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.5911,
+            "longitude": 6.1057
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "KIEM - CIRCUIT DE LA FOIRE / RUE ALPHONSE WEICKER",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:34Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "#00025-KIEM",
+        "number": 25,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.634283,
+            "longitude": 6.166633
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:01Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00120-A RILSPERT",
+        "number": 120,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60751,
+            "longitude": 6.045842
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "BGL BNP PARIBAS  - RUE EDOUARD STEICHEN ( FACE N\u00b0 10 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "#00048-BGL BNP PARIBAS",
+        "number": 48,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.632179,
+            "longitude": 6.174446
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue du Fort Dumoulin/Rue de Tr\u00e8ves",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:20Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        },
+        "name": "#00080-INS",
+        "number": 80,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.612542,
+            "longitude": 6.147918
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "BEI DER SCHOUL - RUE FERDINAND KUHN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 20
+        },
+        "name": "#00065-BEI DER SCHOUL",
+        "number": 65,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.58421,
+            "longitude": 6.14202
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ITZIG VILLAGE/PLACE MANDERSCHEID - RUE DE HESP\u00c9RANGE N\u00b03",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:48Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        },
+        "name": "#00104-ITZIG VILLAGE/PLACE MANDERSCHEID",
+        "number": 104,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.58574,
+            "longitude": 6.171965
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "RUE DE LEUDELANGE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:35Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        },
+        "name": "#00122-DICKS",
+        "number": 122,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.604944,
+            "longitude": 6.05228
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "THEATER PLAZ - PLACE DU THEATRE ( FACE N\u00b01 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        },
+        "name": "#00015-THEATER PLAZ",
+        "number": 15,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.612782,
+            "longitude": 6.131208
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 16
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ROUSEGAERTCHEN - PLACE DES MARTYRS",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:58Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 10
+        },
+        "name": "#00007-ROUSEGAERTCHEN",
+        "number": 7,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.605818,
+            "longitude": 6.129062
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 10
+        }
+    },
+    {
+        "address": "Rue des Prunelles/Bd du Brill",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00092-BRILL (CESSANGE)",
+        "number": 92,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.58914,
+            "longitude": 6.099213
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "BEI DER AUER - RUE DE GASPERICH ( DEVANT N\u00b0 20 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:16Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        },
+        "name": "#00052-BEI DER AUER",
+        "number": 52,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.591404,
+            "longitude": 6.125333
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue de Bitbourg devant n\u00b020",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        },
+        "name": "#00084-BITBOURG",
+        "number": 84,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61349,
+            "longitude": 6.17066
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GAULOIS - RUE DES GAULOIS 11",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        },
+        "name": "#00037-GAULOIS",
+        "number": 37,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60164,
+            "longitude": 6.13736
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 4
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "Rue de M\u00fchlenbach/ Rue Jules Mersch",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 16,
+                "electricalInternalBatteryBikes": 16,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        },
+        "name": "#00091-MERSCH (M\u00dcHLENBACH)",
+        "number": 91,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.627834,
+            "longitude": 6.122333
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 16,
+                "electricalInternalBatteryBikes": 16,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GASTON DIDERICH - AVENUE GASTON DIDERICH",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 0
+            },
+            "capacity": 15
+        },
+        "name": "#00035-GASTON DIDERICH",
+        "number": 35,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.609904,
+            "longitude": 6.106099
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 14,
+                "electricalBikes": 14,
+                "electricalInternalBatteryBikes": 14,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 0
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "ROND-POINT MOTEL - ROUTE D'ARLON N\u00b01 / ROUTE DE KOERICH",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:40Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 16
+        },
+        "name": "#00114-ROND-POINT MOTEL",
+        "number": 114,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.641375,
+            "longitude": 6.001651
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 16
+        }
+    },
+    {
+        "address": "BOUILLON - RUE DE BOUILLON / PARKING",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:24Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 23,
+                "electricalBikes": 23,
+                "electricalInternalBatteryBikes": 23,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 35
+        },
+        "name": "#00057-BOUILLON",
+        "number": 57,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60001,
+            "longitude": 6.10826
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 23,
+                "electricalBikes": 23,
+                "electricalInternalBatteryBikes": 23,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 35
+        }
+    },
+    {
+        "address": "ROCADE-RUE DU LABORATOIRE ( DEVANT VDL )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        },
+        "name": "#00004-ROCADE",
+        "number": 4,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.602989,
+            "longitude": 6.136083
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "- SCHAARFEN ECK- RUE EMILE BIAN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:06Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00055-SCHAARFEN ECK",
+        "number": 55,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.58043,
+            "longitude": 6.11465
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue Gerhard Mercator n\u00b02/Bd de Kockelscheuer",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:31Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "#00086-PWC - BD KOCKELSCHEUER",
+        "number": 86,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.580242,
+            "longitude": 6.120862
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "MONTEREY - AVENUE DE MONTEREY ( FACE N\u00b0 49 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:51Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 20
+        },
+        "name": "#00029-MONTEREY",
+        "number": 29,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.609583,
+            "longitude": 6.119523
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 3,
+                "electricalInternalBatteryBikes": 3,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ALZINGEN G\u00c4SSEL - RUE DE L'ECOLE ANGLE RUE DE SYREN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        },
+        "name": "#00103-ALZINGEN G\u00c4SSEL",
+        "number": 103,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.568074,
+            "longitude": 6.163927
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "MARGUERITES - RUE DES MARGUERITES ( FACE N\u00b0 105 A )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00049-MARGUERITES",
+        "number": 49,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.623837,
+            "longitude": 6.160642
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ITZIG PLATEAU/HUBERTUSPAD - RUE DE LA LIB\u00c9RATION N\u00b028",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:50Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 14
+        },
+        "name": "#00105-ITZIG PLATEAU/HUBERTUSPAD",
+        "number": 105,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.587633,
+            "longitude": 6.170123
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 14
+        }
+    },
+    {
+        "address": "HAMILIUS - RUE NOTRE DAME 37",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        },
+        "name": "#00012-HAMILIUS",
+        "number": 12,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.610738,
+            "longitude": 6.126743
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "PARAISER PLAZ - Rue Sainte ZITHE devant n\u00b049 angle Place de Paris",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 21
+            },
+            "capacity": 25
+        },
+        "name": "#00005-PARAISER PLAZ",
+        "number": 5,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.603694,
+            "longitude": 6.130189
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 21
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "ARELER STROOSS - RUE DES AUBEPINES ( FACE N\u00b0 187 )",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:50Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00044-ARELER STROOSS",
+        "number": 44,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6162,
+            "longitude": 6.0984
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ADMINISTRATION COMMUNALE - RUE DE MARCH\u00c9 / PLACE DE L'IND\u00c9PENDANCE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:21Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        },
+        "name": "#00112-PLACE DE L'INDEPENDANCE",
+        "number": 112,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62635,
+            "longitude": 6.022996
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CIT\u00c9 RIEDGEN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:47Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        },
+        "name": "#00124-BARTRENG - CITE RIEDGEN",
+        "number": 124,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.616795,
+            "longitude": 6.058614
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "FOYER - RUE L\u00c9ON LAVAL N\u00b021",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:12Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        },
+        "name": "#00109-FOYER",
+        "number": 109,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.569178,
+            "longitude": 6.08175
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 5,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "PLACE DE FRANCE - PLACE DE FRANCE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:23Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00031-PLACE DE FRANCE",
+        "number": 31,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60625,
+            "longitude": 6.105961
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "J.B. GELLE - RUE JEAN- BAPTISTE GELLE ( DEVANT N\u00b0 6 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:04Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 1
+            },
+            "capacity": 15
+        },
+        "name": "#00036-J.B. GELLE",
+        "number": 36,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.596838,
+            "longitude": 6.140615
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 1
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "MAIRIE DE BERTRANGE-2 Beim Schlass/ Rue de Leudelange",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00095-MAIRIE DE BERTRANGE",
+        "number": 95,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61093,
+            "longitude": 6.051527
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "M\u00c4RELER PARC - RUE DU 10 SEPTEMBRE ( DEVANT N\u00b0 108 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:21Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        },
+        "name": "#00010-M\u00c4RELER PARC",
+        "number": 10,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.608146,
+            "longitude": 6.111627
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "KRAIZGRENNCHEN - SQUARE DE NEW- YORK",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:06Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 20
+        },
+        "name": "#00039-KRAIZGRENNCHEN",
+        "number": 39,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.613316,
+            "longitude": 6.117582
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SYRDALL SCHWEMM - ROUTSCHEED N\u00b08",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:16Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        },
+        "name": "#00117-SYRDALL SCHWEMM",
+        "number": 117,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.65314,
+            "longitude": 6.245365
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "- KOLLEISCH - RUE DE BRAGANCE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:12Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 31
+        },
+        "name": "#00034-KOLLEISCH",
+        "number": 34,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.604577,
+            "longitude": 6.111927
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 14
+            },
+            "capacity": 31
+        }
+    },
+    {
+        "address": "LABOURS - RUE DES LABOURS / BLD J.F.KENNEDY",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:11Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        },
+        "name": "#00063-LABOURS",
+        "number": 63,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6301,
+            "longitude": 6.16843
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 0,
+                "electricalInternalBatteryBikes": 0,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 18
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SAUVAGE - RUE JEAN-PIERRE SAUVAGE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:59Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        },
+        "name": "#00076-SAUVAGE",
+        "number": 76,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62521,
+            "longitude": 6.13938
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "PLACE LAURENT - PLACE AUGUSTE LAURENT",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "#00041-PLACE LAURENT",
+        "number": 41,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.620066,
+            "longitude": 6.122905
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CHARLY'S GARE - BOULEVARD PRINCE HENRI",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:39Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "#00028-CHARLY'S GARE",
+        "number": 28,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61258,
+            "longitude": 6.12391
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 0,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GARE CENTRALE 2 - PLACE DE LA GARE N\u00b03-5",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:38Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 21
+        },
+        "name": "#00002-GARE CENTRALE 2",
+        "number": 2,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.601051,
+            "longitude": 6.133744
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 17,
+                "electricalInternalBatteryBikes": 17,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 21
+        }
+    },
+    {
+        "address": "CAMPUS CENTS - RUE L\u00c9ON KAUFFMAN/RUE ROBERT BRUCH",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:56Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00099-CAMPUS CENTS",
+        "number": 99,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.617566,
+            "longitude": 6.165165
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue de Pulverm\u00fbhl/Rue du Fort Dumoulin",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:03Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        },
+        "name": "#00083-PULVERM\u00dcHL",
+        "number": 83,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.608758,
+            "longitude": 6.149591
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 10
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SAUERWISS - RUE ABBE FRANCOIS LASCOMBE ( DEVANT N\u00b0 54 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00051-SAUERWISS",
+        "number": 51,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.594088,
+            "longitude": 6.125123
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue de M\u00fchlenbach/Rue Jean-Pierre Huberty",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:46Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        },
+        "name": "#00090-HUBERTY (M\u00dcHLENBACH)",
+        "number": 90,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6294701613971,
+            "longitude": 6.11780413988129
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 15,
+                "electricalBikes": 15,
+                "electricalInternalBatteryBikes": 15,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "COQUE - AVENUE JF KENNEDY / RUE ERASME",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:45Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "#00020-COQUE",
+        "number": 20,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62297,
+            "longitude": 6.15497
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 2,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CITY CONCORDE - Route de Longwy face n\u00b0 80 (City Concorde)",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:48Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00098-CITY CONCORDE",
+        "number": 98,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.600592,
+            "longitude": 6.065794
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SCHLUECHTHAUS - RUE DE L'ABATTOIR",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        },
+        "name": "#00058-SCHLUECHTHAUS",
+        "number": 58,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60136,
+            "longitude": 6.11581
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "LES THERMES - RUE DU CIMETIERE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:16Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00071-LES THERMES",
+        "number": 71,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61489,
+            "longitude": 6.07275
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "NATIONALBIBLIOTHEIK - Bd. KONRAD ADENAUER (Immeuble Biblioth\u00e8que Nationale)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "#00087-NATIONALBIBLIOTHEIK",
+        "number": 87,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.629865,
+            "longitude": 6.166252
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "MAIRIE DE HESPERANGE - ROUTE DE THIONVILLE 474",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:57Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 0
+            },
+            "capacity": 20
+        },
+        "name": "#00067-MAIRIE DE HESPERANGE",
+        "number": 67,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.571924,
+            "longitude": 6.15965
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 0
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GARE CENTRALE - PLACE DE LA GARE (Quai n\u00b01)",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:25Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00079-GARE CENTRALE",
+        "number": 79,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6017,
+            "longitude": 6.1331
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue de l'industrie/Rue Chemin de Fer/ Rue de Strassen",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        },
+        "name": "#00096-BERTRANGE - GARE",
+        "number": 96,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.613161,
+            "longitude": 6.060382
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "En face de Rue Fran\u00e7ois-S\u00e9bastien Tinant 156",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:31Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 19,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        },
+        "name": "#00133-HALANZY",
+        "number": 133,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.645359,
+            "longitude": 6.128075
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 17,
+                "electricalBikes": 19,
+                "electricalInternalBatteryBikes": 19,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "HOLLERECHER PLAZ - PLACE SAINT PIERRE ET PAUL / RUE BAUDOUIN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:40Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 25
+        },
+        "name": "#00026-HOLLERECHER PLAZ",
+        "number": 26,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.598613,
+            "longitude": 6.117957
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 25
+        }
+    },
+    {
+        "address": "CLOCHE D'OR - RUE JEAN PIRET ( DEVANT N\u00b0 3 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:16:29Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        },
+        "name": "#00054-CLOCHE D'OR",
+        "number": 54,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.583377,
+            "longitude": 6.115817
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 10,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 9
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "All\u00e9e du Carmel/Rue Paul Albrecht face Police",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:25Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00081-CARMEL",
+        "number": 81,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.62019,
+            "longitude": 6.172682
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CHARLY'S STATION - RUE DE GR\u00dcNEWALD / CH\u00c2TEAU D'EAU \u00c0 2633 SENNINGERBERG",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        },
+        "name": "#00116-CHARLY'S STATION",
+        "number": 116,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.649823,
+            "longitude": 6.225796
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "- GEMENG STROOSSEN - RUE DES ROMAINS",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:58Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00070-GEMENG STROOSSEN",
+        "number": 70,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61909,
+            "longitude": 6.07227
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "CONVICT - PLACE DU FOYER",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:06Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "#00009-CONVICT",
+        "number": 9,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6059,
+            "longitude": 6.1199
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 3,
+                "electricalBikes": 4,
+                "electricalInternalBatteryBikes": 4,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "LYCEE TECHNIQUE DE BONNEVOIE - RUE DU CIMETIERE ( DEVANT N\u00b0 110 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:49Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        },
+        "name": "#00043-LYCEE TECHNIQUE DE BONNEVOIE",
+        "number": 43,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.5911,
+            "longitude": 6.1416
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "HALL SPORTIF NICOLAS FRANTZ - RUE DE BERTRANGE / HALL SPORTIF NICOLAS FRANTZ",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:48Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        },
+        "name": "#00111-HALL SPORTIF NICOLAS FRANTZ",
+        "number": 111,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.623154,
+            "longitude": 6.024879
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ST HUBERT - RUE DE MERL 147 / RUE ST HUBERT",
+        "banking": true,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:35Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        },
+        "name": "#00059-ST HUBERT",
+        "number": 59,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60289,
+            "longitude": 6.09322
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "UM REIMERWEE - RUE DU KIEM",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:05Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        },
+        "name": "#00069-UM REIMERWEE",
+        "number": 69,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61769,
+            "longitude": 6.08276
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SAINTE CUNEGONDE - PLACE STE CUNEGONDE",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:48Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        },
+        "name": "#00074-SAINTE CUNEGONDE",
+        "number": 74,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6146,
+            "longitude": 6.14283
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "CAMPUS LAMPERTSBIERG - RUE DE LA FAIENCERIE ( DEVANT N\u00b0 151 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:15:44Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 19
+        },
+        "name": "#00018-CAMPUS LAMPERTSBIERG",
+        "number": 18,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6219,
+            "longitude": 6.1118
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 9,
+                "electricalBikes": 11,
+                "electricalInternalBatteryBikes": 11,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 19
+        }
+    },
+    {
+        "address": "Place de Strasbourg x Rue Adolphe Fischer 110",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:17Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 7
+            },
+            "capacity": 20
+        },
+        "name": "#00003-STROOSSBUERGER PLAZ",
+        "number": 3,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.600714,
+            "longitude": 6.127929
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 11,
+                "electricalBikes": 10,
+                "electricalInternalBatteryBikes": 10,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 1,
+                "stands": 7
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GARE - RUE DE LA GARE N\u00b0166",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00107-LEUDELANGE GARE",
+        "number": 107,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.586736,
+            "longitude": 6.05966
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 12,
+                "electricalBikes": 12,
+                "electricalInternalBatteryBikes": 12,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "BOCH - RUE J-F BOCH",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:18:37Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        },
+        "name": "#00060-BOCH",
+        "number": 60,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.61925,
+            "longitude": 6.10842
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 9,
+                "electricalInternalBatteryBikes": 9,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 8
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue des Scillas 55 / Banque de Luxembourg",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        },
+        "name": "#00066-BEIM TENNIS",
+        "number": 66,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.579231,
+            "longitude": 6.134018
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 15
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GLACIS KAPELL - BOULEVARD DE LA FOIRE ( DEVANT N\u00b0 21 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        },
+        "name": "#00040-GLACIS KAPELL",
+        "number": 40,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6147,
+            "longitude": 6.1211
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 6,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 5
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "PISCINE OLYMPIQUE - RUE LEON HENGEN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        },
+        "name": "#00032-PISCINE OLYMPIQUE",
+        "number": 32,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.623901,
+            "longitude": 6.150013
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 1,
+                "electricalInternalBatteryBikes": 1,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 19
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "ROND-POINT GASSECHTBIERG - ROUTE D'ARLON / RUE DE LA LIB\u00c9RATION",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:14Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        },
+        "name": "#00110-ROND-POINT GASSECHTBIERG",
+        "number": 110,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.627159,
+            "longitude": 6.031948
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 4,
+                "electricalBikes": 5,
+                "electricalInternalBatteryBikes": 5,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 11
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "Rue Auguste Charles/Rue Godchaux",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:17:30Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 16,
+                "electricalInternalBatteryBikes": 16,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        },
+        "name": "#00093-GODCHAUX (BONNEVOIE)",
+        "number": 93,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.601652,
+            "longitude": 6.145533
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 16,
+                "electricalBikes": 16,
+                "electricalInternalBatteryBikes": 16,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 3
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "JEAN MONNET - BOULEVARD KONRAD ADENAUER / RUE ERASME",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:09Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        },
+        "name": "#00021-JEAN MONNET",
+        "number": 21,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.625714,
+            "longitude": 6.148347
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 8,
+                "electricalBikes": 8,
+                "electricalInternalBatteryBikes": 8,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 12
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "SQUARE ANDRE - SQUARE EDOUARD ANDRE ( DEVANT N\u00b0 1 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:19Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        },
+        "name": "#00042-SQUARE ANDRE",
+        "number": 42,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.6238,
+            "longitude": 6.1188
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 13,
+                "electricalBikes": 13,
+                "electricalInternalBatteryBikes": 13,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 6
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "FORT NIEDERGR\u00dcNEWALD - RUE DU FORT NIEDERGR\u00dcNEWALD/KENNEDY",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:42Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        },
+        "name": "#00100-FORT NIEDERGR\u00dcNEWALD",
+        "number": 100,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.619439,
+            "longitude": 6.140894
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 1,
+                "electricalBikes": 2,
+                "electricalInternalBatteryBikes": 2,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 17
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "GRENIER - RUE EDOUARD GRENIER",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:20:00Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        },
+        "name": "#00064-GRENIER",
+        "number": 64,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.59383,
+            "longitude": 6.14327
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 18,
+                "electricalBikes": 18,
+                "electricalInternalBatteryBikes": 18,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 2
+            },
+            "capacity": 20
+        }
+    },
+    {
+        "address": "LONKECHER STROOSS - ROUTE DE LONGWY ( DEVANT N\u00b0 241 )",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:33Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 15
+        },
+        "name": "#00046-LONKECHER STROOSS",
+        "number": 46,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.60563,
+            "longitude": 6.10003
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 6,
+                "electricalInternalBatteryBikes": 6,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 7
+            },
+            "capacity": 15
+        }
+    },
+    {
+        "address": "FRIEDEN - BVD PIERRE FRIEDEN",
+        "banking": false,
+        "bonus": false,
+        "connected": true,
+        "contractName": "luxembourg",
+        "lastUpdate": "2023-11-03T21:19:54Z",
+        "mainStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        },
+        "name": "#00061-FRIEDEN",
+        "number": 61,
+        "overflow": false,
+        "overflowStands": null,
+        "position": {
+            "latitude": 49.637327,
+            "longitude": 6.164573
+        },
+        "shape": null,
+        "status": "OPEN",
+        "totalStands": {
+            "availabilities": {
+                "bikes": 7,
+                "electricalBikes": 7,
+                "electricalInternalBatteryBikes": 7,
+                "electricalRemovableBatteryBikes": 0,
+                "mechanicalBikes": 0,
+                "stands": 13
+            },
+            "capacity": 20
+        }
+    }
+]
