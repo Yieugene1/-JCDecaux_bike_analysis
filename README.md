@@ -1,0 +1,2 @@
+I acquired and crawled the database from the official website of JCDecaux to access their API. Initially, I analyzed how the bikes are distributed in each city![Screenshot 2024-03-04 213126](https://github.com/Yieugene1/-JCDecaux_bike_analysis/assets/152032366/28c9f84a-2f1b-4386-a14c-475d735db884)
+![Screenshot 2024-03-04 213126](https://github.com/Yieugene1/-JCDecaux_bike_analysis/assets/152032366/4dda8c6c-2892-49a4-a825-591d8aa94fa2)
